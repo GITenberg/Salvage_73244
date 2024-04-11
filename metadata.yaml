@@ -1,0 +1,32 @@
+_repo: Salvage_73244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norton, Roy
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '34062'
+    url: http://www.gutenberg.org/2009/agents/34062
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73244'
+language: en
+pgterms:marc904: https://archive.org/details/popular-magazine-v-088-n-06-1928-02-04-sas
+pgterms:marc905: 20231125072025norton
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Salvage
+url: http://www.gutenberg.org/ebooks/73244
